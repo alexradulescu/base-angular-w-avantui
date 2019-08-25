@@ -25,7 +25,7 @@
             "styles": [
               "src/assets/bootstrap.css",
               "src/assets/avantui.css",
-              "src/assets/fontawesome/css/all.css",
+              "./node_modules/@fortawesome/fontawesome-free/css/all.css",
               "src/styles.css"
             ],
             "scripts": []
